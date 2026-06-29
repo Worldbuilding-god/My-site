@@ -112,3 +112,7 @@ a{
   padding: 1%;
   border-radius: 50%;
 }
+#hits{
+  display: flex;
+  justify-content: center;
+}
